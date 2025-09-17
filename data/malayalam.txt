@@ -1,0 +1,71 @@
+Drishyam | Jeethu Joseph | 8.6 | thriller | A man uses wit to protect his family after a crime.
+Premam | Alphonse Puthren | 8.3 | romantic | The coming-of-age love story of George and his relationships.
+Kumbalangi Nights | Madhu C. Narayanan | 8.6 | drama | Four brothers navigate love, conflict, and acceptance.
+Bangalore Days | Anjali Menon | 8.3 | comedy | Three cousins experience life and love in Bangalore.
+Ustad Hotel | Anwar Rasheed | 8.3 | inspirational | A young man finds purpose through his grandfather’s restaurant.
+Virus | Aashiq Abu | 8.1 | drama | A gripping film based on the Nipah virus outbreak in Kerala.
+Charlie | Martin Prakkat | 8.0 | romantic | A free-spirited artist changes the life of a young woman.
+Njan Prakashan | Sathyan Anthikad | 7.6 | comedy | A man dreams of an easy life abroad but learns lessons.
+Lucifer | Prithviraj Sukumaran | 7.5 | action | A political thriller starring Mohanlal.
+Ee.Ma.Yau | Lijo Jose Pellissery | 8.2 | drama | A satire revolving around a funeral in a coastal village.
+Angamaly Diaries | Lijo Jose Pellissery | 8.0 | action | A gang drama set in Angamaly town.
+Thondimuthalum Driksakshiyum | Dileesh Pothan | 8.2 | thriller | A thief swallows a chain, leading to chaos.
+Ennu Ninte Moideen | R.S. Vimal | 7.8 | romantic | A real-life tragic love story from Kerala.
+Maheshinte Prathikaaram | Dileesh Pothan | 8.3 | comedy | A photographer seeks revenge after humiliation.
+Chithram | Priyadarshan | 8.6 | comedy | A classic comedy of errors involving a fake husband.
+Manichitrathazhu | Fazil | 8.5 | thriller | A psychologist investigates mysterious events in a mansion.
+Jallikattu | Lijo Jose Pellissery | 7.9 | action | A buffalo runs loose, causing chaos in a village.
+Oru Vadakkan Veeragatha | Hariharan | 8.4 | drama | The legendary tale of Chandu Chekavar.
+Kerala Varma Pazhassi Raja | Hariharan | 7.8 | historical | Story of the famous Kerala king Pazhassi Raja.
+Take Off | Mahesh Narayanan | 8.2 | drama | Nurses trapped in Iraq struggle for survival.
+Nadodikattu | Sathyan Anthikad | 8.7 | comedy | Two jobless men go to Chennai in search of fortune but end up in hilarious trouble.
+Pattanapravesham | Sathyan Anthikad | 8.5 | comedy | The bumbling duo Dasan and Vijayan become CBI officers.
+Akkare Akkare Akkare | Priyadarshan | 8.3 | comedy | Dasan and Vijayan’s misadventures take them to the U.S.
+Sandesham | Sathyan Anthikad | 8.8 | satire | A political satire on two brothers with opposing ideologies.
+Thoovanathumbikal | Padmarajan | 8.6 | romantic | A man’s love life is entangled between two women.
+Namukku Parkkan Munthiri Thoppukal | Padmarajan | 8.7 | romantic | A young man’s love story faces opposition from the girl’s stepfather.
+Innale | P. Padmarajan | 8.3 | drama | A woman with memory loss starts a new life.
+Moonnam Pakkam | Padmarajan | 8.6 | drama | A grandfather faces tragedy when his grandson drowns.
+Koodevide | Padmarajan | 8.2 | drama | A teacher forms a bond with a mischievous student.
+Kireedam | Sibi Malayil | 8.7 | drama | A young man’s life is shattered when he is forced into violence.
+Chenkol | Sibi Malayil | 8.4 | drama | The continuation of Kireedam, exploring redemption.
+Thooval Kottaram | Sathyan Anthikad | 8.0 | romantic | A man’s life changes when he helps a mentally ill woman.
+Sallapam | Sundar Das | 7.9 | romantic | A love triangle with a tragic twist.
+Kilukkam | Priyadarshan | 8.6 | comedy | A tourist guide and his friend get entangled with a runaway girl.
+Kilukkam Kilukilukkam | Sandhya Mohan | 7.6 | comedy | The sequel to the blockbuster comedy Kilukkam.
+Midhunam | Priyadarshan | 8.0 | comedy | A newlywed couple’s quirky life is depicted with humor.
+Azhakiya Ravanan | Kamal | 8.0 | romantic | A man returns to his village to win back his childhood love.
+Bharatham | Sibi Malayil | 8.7 | drama | A classical singer deals with his brother’s downfall.
+Spadikam | Bhadran | 8.7 | action | A rebellious son clashes with his strict father.
+Devasuram | I.V. Sasi | 8.6 | action | A feudal lord reforms after falling in love.
+Ravanaprabhu | Ranjith | 7.9 | action | The sequel to Devasuram, continuing the legacy.
+Lelam | Joshiy | 8.2 | action | Rival liquor barons battle for supremacy.
+Pathram | Joshi | 8.1 | thriller | A daring journalist exposes political corruption.
+Commissioner | Shaji Kailas | 8.0 | action | A fearless police officer takes on the underworld.
+Ekalavyan | Shaji Kailas | 7.9 | action | A cop wages war against a corrupt godman.
+Aaram Thampuran | Shaji Kailas | 8.3 | action | A mysterious man revives a decaying village.
+Narasimham | Shaji Kailas | 7.9 | action | A larger-than-life hero fights injustice.
+Manu Uncle | Dileep | 7.8 | children’s | A fun-filled adventure with kids solving mysteries.
+Kaalapani | Priyadarshan | 8.6 | historical | A story of Indian freedom fighters imprisoned in the Andamans.
+Thooval Kottaram | Sathyan Anthikad | 8.0 | romantic | A man’s world changes after meeting a troubled woman.
+Mazha | Lenin Rajendran | 7.9 | drama | A woman’s nostalgic recollections of her love for her music teacher.
+Bhoothakkannadi | Lohithadas | 8.5 | drama | A watch repairer loses grip on reality.
+Agnidevan | Venu Nagavalli | 8.0 | drama | Two brothers fight over literature and love.
+Thooval Kottaram | Sathyan Anthikad | 8.0 | romantic | The story of a compassionate man helping a mentally ill woman.
+Thooval Sparsam | Kamal | 7.8 | drama | A tale of three bachelors and their unexpected guest.
+Mazhayethum Munpe | Kamal | 8.0 | romantic | A professor’s tragic love story with his student.
+Oru CBI Diary Kurippu | K. Madhu | 8.4 | thriller | CBI officer Sethurama Iyer solves a mysterious death.
+Jagratha | K. Madhu | 8.0 | thriller | The second CBI film investigating a murder.
+Sethurama Iyer CBI | K. Madhu | 7.9 | thriller | The third installment of the iconic CBI series.
+Nerariyan CBI | K. Madhu | 7.8 | thriller | The fourth CBI film blending crime and mystery.
+Valyettan | Shaji Kailas | 7.7 | action | A family man defends his brothers against enemies.
+Meesa Madhavan | Lal Jose | 8.0 | comedy | A thief falls in love with the landlord’s daughter.
+Classmates | Lal Jose | 8.5 | drama | A reunion stirs up old college memories and secrets.
+Arabikkatha | Lal Jose | 8.1 | drama | A leftist leader struggles in Dubai’s labor camps.
+Diamond Necklace | Lal Jose | 7.9 | drama | A Dubai-based doctor faces romantic entanglements.
+Vikramadithyan | Lal Jose | 7.7 | comedy | Two childhood rivals grow up with intertwined fates.
+Neelakasham Pachakadal Chuvanna Bhoomi | Sameer Thahir | 8.0 | drama | A road trip of friendship, love, and self-discovery.
+Chaappa Kurish | Sameer Thahir | 7.6 | thriller | A lost phone links the lives of two contrasting men.
+Kali | Sameer Thahir | 7.8 | action | A young man struggles with anger management.
+Annayum Rasoolum | Rajeev Ravi | 8.0 | romantic | A ferry operator’s love story set in Kochi.
+Nayattu | Martin Prakkat | 8.2 | thriller | Three cops become fugitives after an accident during custody.

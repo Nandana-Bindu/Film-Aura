@@ -1,0 +1,60 @@
+Inception | Christopher Nolan | 8.8 | thriller | A mind-bending sci-fi thriller about dreams within dreams.
+The Dark Knight | Christopher Nolan | 9.0 | action | Batman faces the Joker in Gotham City.
+Titanic | James Cameron | 7.8 | romantic | A tragic love story aboard the Titanic.
+The Hangover | Todd Phillips | 7.7 | comedy | Three friends wake up from a wild night in Las Vegas.
+Forrest Gump | Robert Zemeckis | 8.8 | inspirational | The story of a kind-hearted man with an extraordinary life.
+The Shawshank Redemption | Frank Darabont | 9.3 | drama | Two imprisoned men bond over decades, finding redemption.
+Interstellar | Christopher Nolan | 8.6 | sci-fi | A team travels through a wormhole to save humanity.
+Avengers: Endgame | Russo Brothers | 8.4 | action | The Avengers unite for the final battle against Thanos.
+The Matrix | Wachowski Sisters | 8.7 | sci-fi | A hacker discovers reality is a simulated world.
+Joker | Todd Phillips | 8.4 | psychological | A failed comedian's descent into madness in Gotham.
+The Pursuit of Happyness | Gabriele Muccino | 8.0 | inspirational | A father struggles to build a better life for his son.
+Gladiator | Ridley Scott | 8.5 | action | A Roman general seeks revenge against a corrupt emperor.
+La La Land | Damien Chazelle | 8.0 | romantic | An aspiring actress and a jazz musician chase their dreams.
+The Lion King | Jon Favreau | 6.9 | family | Simba’s journey to reclaim his place as king.
+Shutter Island | Martin Scorsese | 8.2 | mystery | Detectives investigate a disappearance on a remote island.
+Frozen | Chris Buck | 7.4 | family | Two sisters face challenges in a magical icy kingdom.
+Deadpool | Tim Miller | 8.0 | comedy | A mercenary with dark humor becomes an antihero.
+Avatar | James Cameron | 7.9 | sci-fi | Humans explore Pandora, facing moral dilemmas.
+The Godfather | Francis Ford Coppola | 9.2 | drama | The story of a powerful mafia family in America.
+Toy Story | John Lasseter | 8.3 | family | Toys secretly come alive when humans aren’t around.
+Pulp Fiction | Quentin Tarantino | 8.9 | crime | Interwoven stories of crime and redemption in Los Angeles.
+Fight Club | David Fincher | 8.8 | drama | An insomniac and a soap salesman form an underground fight club.
+The Big Lebowski | Joel Coen | 8.1 | comedy | A laid-back bowler gets entangled in a kidnapping plot.
+Donnie Darko | Richard Kelly | 8.0 | sci-fi | A troubled teen experiences visions of a giant rabbit.
+Blade Runner | Ridley Scott | 8.1 | sci-fi | A blade runner hunts rogue androids in a dystopian future.
+Eternal Sunshine of the Spotless Mind | Michel Gondry | 8.3 | romance | A couple undergoes a procedure to erase memories of each other.
+The Rocky Horror Picture Show | Jim Sharman | 7.4 | musical | A newly engaged couple encounters a bizarre transvestite scientist.
+Trainspotting | Danny Boyle | 8.1 | drama | A group of heroin addicts navigate life in Edinburgh.
+A Clockwork Orange | Stanley Kubrick | 8.3 | dystopian | A delinquent's violent behavior is curbed through psychological conditioning.
+This Is Spinal Tap | Rob Reiner | 7.9 | comedy | A mockumentary about a fictional British rock band.
+Reservoir Dogs | Quentin Tarantino | 8.3 | crime | After a botched heist, criminals suspect one of them is a police informant.
+The Breakfast Club | John Hughes | 7.9 | teen | Five high school students bond during Saturday detention.
+Fear and Loathing in Las Vegas | Terry Gilliam | 7.6 | adventure | A journalist and his attorney embark on a drug-fueled journey.
+The Princess Bride | Rob Reiner | 8.1 | adventure | A young man's quest to rescue his true love from an evil prince.
+Her | Spike Jonze | 8.0 | romance | A lonely writer falls in love with his AI operating system.
+Mad Max: Fury Road | George Miller | 8.1 | action | In a post-apocalyptic world, a rebel teams up with a warrior to escape tyranny.
+The Grand Budapest Hotel | Wes Anderson | 8.1 | comedy | The adventures of a hotel concierge and his protégé in a fictional European state.
+Donnie Brasco | Mike Newell | 7.7 | crime | An undercover FBI agent infiltrates the mob.
+The Fifth Element | Luc Besson | 7.7 | sci-fi | A cab driver helps save the world with the aid of a mysterious woman.
+The Exorcist | William Friedkin | 8.1 | horror | A mother seeks help when her daughter is possessed by a demonic entity.
+Hereditary | Ari Aster | 7.3 | horror | A family’s dark secrets unravel after a tragic loss.
+The Babadook | Jennifer Kent | 6.8 | horror | A mother and son face a sinister presence from a mysterious book.
+It | Andy Muschietti | 7.3 | horror | Children confront a shape-shifting entity that feeds on fear.
+Get Out | Jordan Peele | 7.7 | horror | A young Black man uncovers disturbing secrets while visiting his girlfriend’s family.
+A Quiet Place | John Krasinski | 7.5 | horror | A family must stay silent to survive in a world hunted by monsters.
+The Witch | Robert Eggers | 6.9 | horror | A Puritan family faces paranoia and dark forces in 1630s New England.
+Annihilation | Alex Garland | 6.8 | sci-fi | A team explores a mysterious zone where nature mutates unpredictably.
+Pan’s Labyrinth | Guillermo del Toro | 8.2 | adventure | A young girl discovers a mystical labyrinth in post-Civil War Spain.
+The Revenant | Alejandro González Iñárritu | 8.0 | adventure | A frontiersman fights for survival after being left for dead.
+King Kong | Peter Jackson | 7.2 | adventure | Explorers encounter a giant ape on a remote island.
+Life of Pi | Ang Lee | 7.9 | adventure | A young man survives a shipwreck on a lifeboat with a Bengal tiger.
+The Others | Alejandro Amenábar | 7.6 | horror | A woman suspects strange occurrences in her isolated mansion.
+The Shape of Water | Guillermo del Toro | 7.3 | fantasy | A mute woman forms a bond with an amphibious creature in a government lab.
+Crimson Peak | Guillermo del Toro | 6.5 | horror | A young bride uncovers haunting secrets in her new home.
+The Cabin in the Woods | Drew Goddard | 7.0 | horror | Friends visiting a remote cabin uncover a sinister conspiracy.
+Midsommar | Ari Aster | 7.1 | horror | A group of friends attend a pagan festival that turns terrifying.
+The Blair Witch Project | Daniel Myrick | 6.5 | horror | Filmmakers vanish while documenting a local legend in the woods.
+The Lost Boys | Joel Schumacher | 7.3 | horror | Teenagers battle vampires in a coastal California town.
+The Maze Runner | Wes Ball | 6.8 | adventure | Teens trapped in a deadly maze struggle to uncover the truth.
+Ready Player One | Steven Spielberg | 7.4 | adventure | A young gamer joins a quest in a virtual reality universe.
